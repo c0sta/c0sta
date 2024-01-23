@@ -1,5 +1,5 @@
 ### Hi there, I'm Gabriel 👋🏻
- - 👨🏻‍💻 I'm a Front-end developer, I've been coding with JavaScript/Typescript for over 4 years.
+ - 👨🏻‍💻 I'm a Front-end/FullStack developer, I've been coding with JavaScript/Typescript for over 4 years.
  - ⚛️  90% of the time working with React and its ecosystem, and had a little exp with Angular.
  - 🔭 Looking to collaborate on Open Source projects more actively.
  - 🦗 Kind of addicted to distro hopping for some time, but NixOS made me stop.
