@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Gabriel 👋🏻
+ - 👨🏻‍💻 I'm a Front-end developer, I've been coding with JavaScript/Typescript for over 4 years.
+ - ⚛️  90% of the time working with React and its ecosystem, and had a little exp with Angular.
+ - 🔭 Looking to collaborate on Open Source projects more actively.
+ - 🦗 Kind of addicted to distro hopping for some time, but NixOS made me stop.
+
 
 <!--
 **c0sta/c0sta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0sta&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0sta&show_icons=true&theme=tokyonight&hide_border=true)
